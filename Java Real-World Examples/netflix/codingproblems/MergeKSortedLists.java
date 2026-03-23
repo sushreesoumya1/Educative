@@ -63,17 +63,13 @@ public class MergeKSortedLists {
         }
 
         if(l1 == null){
-            while(l2 != null) {
+            if(result == null){
+                return l2;
+            } else {
                 result.next = l2;
-                l2 = l2.next;
-                result = result.next;
             }
         } else {
-            while(l1 != null) {
-                result.next = l1;
-                l1 = l1.next;
-                result = result.next;
-            }
+            result.next = l1;
         }
         return temp;
     }
