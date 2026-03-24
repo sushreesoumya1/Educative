@@ -5,7 +5,7 @@
 | 1 | Group Similar Titles | Categorize similar words into groups | ✅ | Group Anagrams | ✅ |
 | 2 | Fetch Top Movies | Combine multiple sorted lists | ✅ | Merge K Sorted Lists | ✅ |
 | 3 | Find Median Age | Process data at run time | ✅ | Find Median From Data Stream | ⬜ |
-| 4 | Popularity Analysis | Identify titles with increasing or decreasing popularity | ✅ | Monotonic Array | ⬜ |
+| 4 | Popularity Analysis | Identify titles with increasing or decreasing popularity | ✅ | Monotonic Array | ✅ |
 | 5 | Fetch Most Recently Watched Titles | Maintain most recently used values in a structure | ✅ | LRU Cache | ⬜ |
 | 6 | Fetch Most Frequently Watched Titles | Maintain most frequently used values in a structure | 🚧 | LFU Cache | ⬜ |
 | 7 | Browse Ratings | Implement a back button | ⬜ | Min Stack | ⬜ |
