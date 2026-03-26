@@ -9,7 +9,7 @@
 | 5 | Fetch Most Recently Watched Titles | Maintain most recently used values in a structure | ✅ | LRU Cache | ⬜ |
 | 6 | Fetch Most Frequently Watched Titles | Maintain most frequently used values in a structure | 🚧 | LFU Cache | ⬜ |
 | 7 | Browse Ratings | Implement a back button | 🚧| Min Stack | ⬜ |
-| 8 | Verify User Session | Verify stack push and pop sequences | ⬜ | Validate Stack Sequences | ✅ |
+| 8 | Verify User Session | Verify stack push and pop sequences | ✅ | Validate Stack Sequences | ✅ |
 | 9 | Movie Combination Of A Genre | Generate possible viewing combinations | ⬜ | Letter Combinations of a Phone Number | ⬜ |
 | 10 | Median of Buffering Events | Calculate median events in an interval | ⬜ | Sliding Window Median | ⬜ |
 | 11 | Generate Movie Viewing Order | Identify all possible viewing orders | ⬜ | Permutations | ⬜ |
