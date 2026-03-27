@@ -3,7 +3,7 @@
 
 | Sl.No. | Netflix Feature | Feature Description | Feature Status | Similar Coding Question | Coding Status |
 |------|------------------------------|---------------------------------------------------------------|------|--------------------------------------------------------------|------|
-| 1 | Find Pair With Target Sum | Use hashing to find a pair of elements from a list that adds up to a certain amount | ⬜ | Two Sum Problem | ⬜ |
+| 1 | Find Pair With Target Sum | Use hashing to find a pair of elements from a list that adds up to a certain amount | ⬜ | Two Sum Problem | ✅ |
 | 2 | Find Triplets With Target Sum | Use hashing to find all triplets from a list that add up to a certain number | ⬜ | Three Sum Problem, 3Sum Closest | ⬜ |
 | 3 | Randomized Item Store | Implement a data structure for insertion, deletion, and random lookup | ⬜ | Insert, Delete, and GetRandom in O(1), Insert Delete GetRandom O(1) - Duplicates Allowed | ⬜ |
 | 4 | Clone Watchlist With References | Create a deep copy of a linked list with multiple pointers | ⬜ | Copy List with Random Pointer | ⬜ |
