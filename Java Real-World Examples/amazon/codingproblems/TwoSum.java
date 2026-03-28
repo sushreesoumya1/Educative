@@ -14,12 +14,11 @@ public class TwoSum {
         HashMap<Integer, Integer> map = new HashMap<>();
         int i=0;
         for(int num : numbers){
-            map.put(num, i);
-            i++;
-        }
-        for(int num : numbers){
-            if(map.containsKey(target-num)){
-                return new int[]{map.get(num), map.get(target-num)};
+            if(map.get(target-num) != null){
+                return new int[]{map.get(target-num),i};
+            }else{
+                map.put(num, i);
+                i++;
             }
         }
 
